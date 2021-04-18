@@ -1,2 +1,2 @@
 # HerLifeMattersToo
-Full Stack code for herlifematterstoo.com
+Full Stack for herlifematterstoo.com
